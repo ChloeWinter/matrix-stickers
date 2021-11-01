@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "streamer-emotes.json"
+  ],
+  "homeserver_url": "https://matrix.opensourcelab.nl"
+}
